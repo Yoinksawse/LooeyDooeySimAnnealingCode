@@ -1,3 +1,5 @@
+i did not code this CREDIT to LooeyDooey8886
+
 # MathJournalSimulatedAnnealing
 A simulated annealing algorithm designed to optimize product dimensions as to minimize cost.
 
